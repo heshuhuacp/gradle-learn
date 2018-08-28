@@ -1,0 +1,6 @@
+rootProject.name = 'gradle-learn'
+
+include 'dubbo-interface','dubbo-service'
+include 'interface'
+include 'service'
+
